@@ -50,6 +50,10 @@ Pinned repos below are organized by: **trust UX → governance → agent workflo
 
 </details>
 
+
+<img width="1920" height="1005" alt="6YY0" src="https://github.com/user-attachments/assets/4dfaff57-acf2-4eaf-8ecf-05d17d7943f6" />
+
+
 <details>
   <summary><strong>8-min case</strong> — my design thesis (how I think)</summary>
 

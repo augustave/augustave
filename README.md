@@ -27,78 +27,75 @@ https://artdirector.rocks
 <details open>
   <summary><strong>3-min skim</strong> (what I build + why it matters)</summary>
 
-### Artifact Index (real projects you can inspect)
-- **LOGIKK** — UI/state cockpit for deterministic workflows (replayable sequences, fault containment).
-- **DECAGON** — design governance engine: rules that prevent brand drift in automated pipelines.
-- **NEBRASKA** — agent coordination framework using playbook-style “huddle calls” for multi-agent teams.
-- **MEMENTO / CHRONSYNC** — React/TypeScript apps demonstrating UI craft, performance, and interaction systems.
-- **MINDGRAPHSIM** — cognitive simulation prototype: ideas as objects with material properties + measurable patterns.
-- **GYRO (Prompts)** — a prompt “cognitive stack” for structured reasoning: fold → prune → optimize → reroute → synthesize.
+---
 
-Pinned repos below are organized to match how a hiring manager scans: narrative → proof → depth.
+## What I build (in one sentence)
+Interfaces that make powerful systems feel **trustworthy**: clear progress, explicit permissions, deterministic replays, and failure containment—plus design systems that prevent generative drift.
+
+---
+
+<details open>
+  <summary><strong>3-min skim</strong> — the artifacts (what to click)</summary>
+
+### Artifact Index (projects you can inspect)
+- **LOGIKK** — *State cockpit for complex workflows.* Replayable sequences, auditability, fault containment.
+- **DECAGON** — *Design governance engine.* Constraints that prevent aesthetic drift in automated pipelines.
+- **NEBRASKA** — *Agent coordination protocol.* Playbook-style “huddle calls” for multi-agent teams.
+- **MINDGRAPHSIM** — *Research/simulation tool.* Cognitive systems modeled as measurable dynamics.
+- **VAKNAN-A2** — *Ambient computing system design.* Orchestration loops built around trust + restraint.
+- **ANOTE** — *Reasoning interface design.* Explicit uncertainty, candidate comparison, repeatable decisions.
+
+Pinned repos below are organized by: **trust UX → governance → agent workflows → simulation**.
 
 </details>
 
 <details>
-  <summary><strong>8-min case</strong> (how I design for trust in agentic systems)</summary>
+  <summary><strong>8-min case</strong> — my design thesis (how I think)</summary>
 
-## My design thesis: Inspection beats persuasion
-When systems get more autonomous, “trust” becomes an interface problem.
-So I design products that:
-- Show progress without noise
-- Ask for permissions at the right moment (and explain why)
-- Fail gracefully (containment > cascade)
-- Stay auditable (replayable scripts + state hashes)
+## Thesis: Inspection beats persuasion
+As systems become more autonomous, “trust” becomes an interface problem.  
+So I design around:
+- **Progress you can understand** (what it’s doing, why, and what’s next)
+- **Permissions that are timely** (safe actions, explicit boundaries, reversible steps)
+- **Failure that doesn’t cascade** (containment, recovery, graceful degradation)
+- **Reproducibility as credibility** (replayable scripts, state hashes, verification protocols)
 
 ### The Verification Suite (portable across projects)
-- **View Decoupling:** switch views (Graph ↔ Timeline) without changing state.
-- **Replay Determinism:** replay the same event script → identical state hash + identical timeline marks.
-- **Fault Containment:** trigger a failure → cockpit remains operational.
+- **View Decoupling:** switch views without corrupting state (Graph ↔ Timeline).
+- **Replay Determinism:** replay the same event script → identical state hash + identical marks.
+- **Fault Containment:** trigger a module/UI failure → cockpit remains operational.
 
-### What I’m optimizing for
-- Clarity under ambiguity
-- Keyboard-first speed where it matters
-- Information density that remains readable
-- Reproducibility as credibility
+If you’re reviewing for roles in agentic UX, devtools, or platform tooling: this is the spine.
 
 </details>
 
 ---
 
+## Design focus (the problems I like)
+- Agentic workflows: **progress, permissions, logs, retries, cancellation, recovery**
+- Developer-facing UX: **dense information that stays readable**
+- Governance systems: **constraints + verification instead of “style vibes”**
+- Simulation + research prototypes that stay grounded in **testable artifacts**
+
+---
+
+## Stack (what I actually ship with)
+- **Frontend:** TypeScript, React, UI systems, interaction architecture, state modeling
+- **Prototyping:** fast product prototypes, instrumentable flows, docs that read like specs
+- **Systems patterns:** event-driven thinking, deterministic workflows, verification-first UX
+- **Research tooling:** simulation prototypes and structured experimentation
+
+---
+
 ## What I’m looking for
-Product Design roles at the frontier of AI:
-- Chat / agentic UX
-- Platform & tools (B2B, developer-facing)
-- Growth + onboarding for complex systems
-- Prototyping-heavy teams that ship fast
+Teams working on frontier AI product design:
+- Agentic UX and “what the system is doing” transparency
+- Platform & tools (internal tooling, devtools, reliability UX)
+- Growth + onboarding for complex systems (activation without confusion)
 
 ---
 
-## Core Stack (what I actually build with)
-- **Frontend:** React, TypeScript, Tailwind, Motion/Framer Motion, component systems (shadcn/ui / Radix patterns)
-- **State + UI Systems:** Zustand patterns, interaction architecture, verification-style UI
-- **Backend (varies by project):** Firebase / Supabase patterns, edge functions, auth + storage
-- **Prototyping + Research:** Python for simulations, prompting systems, and structured experiments
+## Notes on collaboration
+I like small teams, tight feedback loops, and artifacts that survive scrutiny:
+specs, diagrams, verification scripts, and interfaces that explain themselves.
 
----
-
-## Start Here (pinned)
-If you only click one repo: **START-HERE / brain-is-the-product**
-It maps the artifacts, provides run steps, and links to verification proofs.
-
-## Hi there 👋
-
-<!--
-**augustave/augustave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

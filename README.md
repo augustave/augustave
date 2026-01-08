@@ -21,7 +21,6 @@ https://artdirector.rocks
 
 ---
 
-![Whisk_uznwnjntkw](https://github.com/user-attachments/assets/3a1ec3fc-3ed4-40b8-91a3-78d49a7e11a2)
 
 <img width="937" height="426" alt="Screenshot 2026-01-08 at 3 49 03 PM" src="https://github.com/user-attachments/assets/41d5430c-8c76-4846-a2b8-ed382aa687a5" />
 

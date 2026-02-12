@@ -15,8 +15,6 @@ Links:
 
 https://brandproduct.dev
 
-https://devgru.computer
-
 https://artdirector.rocks
 
 ---
